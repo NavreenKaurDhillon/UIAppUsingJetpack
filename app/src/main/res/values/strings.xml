@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyUiApp</string>
+    <string name="red_text">Red colored text extracted from string resource</string>
+</resources>
